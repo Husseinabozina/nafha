@@ -10,6 +10,12 @@
 <img src="https://img.shields.io/badge/RTL-Arabic_First-F2D196?style=for-the-badge&labelColor=110C09" alt="RTL Arabic">
 <img src="https://img.shields.io/badge/Zero-Dependencies-C46F7F?style=for-the-badge&labelColor=110C09" alt="Zero dependencies">
 
+<br><br>
+
+<a href="https://husseinabozina.github.io/nafha/"><img src="assets/showcase.jpg" alt="نفحة على الكمبيوتر والجوال" width="100%"></a>
+
+<sub>اضغط على الصورة لفتح الموقع · <a href="assets/Nafha-Showcase.pdf">ملف العرض PDF</a></sub>
+
 </div>
 
 ---
